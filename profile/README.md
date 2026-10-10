@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="icon.png" width="96" alt="Termphin">
-</p>
-
 <h1 align="center">Termphin</h1>
 
 <p align="center">
