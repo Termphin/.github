@@ -1,7 +1,7 @@
 <h1 align="center">Termphin</h1>
 
 <p align="center">
-  A free SSH client - terminal, files and sessions that survive a dropped connection.<br>
+  Never lose an SSH session again.<br>
   <a href="https://termphin.dev">termphin.dev</a> ·
   <a href="https://termphin.dev/download">Download</a> ·
   <a href="https://termphin.dev/docs">Manual</a> ·
