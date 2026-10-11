@@ -5,7 +5,7 @@
   <a href="https://termphin.dev">termphin.dev</a> ·
   <a href="https://termphin.dev/download">Download</a> ·
   <a href="https://termphin.dev/docs">Manual</a> ·
-  <a href="https://github.com/Termphin/termphin/issues">Report a bug</a>
+  <a href="https://github.com/Termphin/Termphin/issues">Report a bug</a>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### Repositories
 | Repo | What it is |
 |---|---|
-| [termphin](https://github.com/Termphin/termphin) | Bug reports and ideas for the app |
+| [Termphin](https://github.com/Termphin/Termphin) | The app: source code (GPL-3.0), bug reports and ideas |
 | [termphin-agent](https://github.com/Termphin/termphin-agent) | Rust helper that keeps one remote shell alive while Termphin is disconnected |
 | [terminal_view](https://github.com/Termphin/terminal_view) | Fast terminal emulator widget for Flutter (fork of xterm.dart) |
 | [tray_kit](https://github.com/Termphin/tray_kit) | System tray icon with a menu for Flutter desktop |
